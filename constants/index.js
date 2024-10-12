@@ -1,0 +1,2 @@
+export const supabaseUrl = 'https://lpgnoojutiyrgadcpxvw.supabase.co'
+export const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxwZ25vb2p1dGl5cmdhZGNweHZ3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mjc0NzAzNTgsImV4cCI6MjA0MzA0NjM1OH0.FiprO08Ym776wZlmHSpfCCeDBFMJ7sG2LIlAg0uO8GQ'
