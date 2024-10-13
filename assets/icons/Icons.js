@@ -21,4 +21,4 @@ export const Video = (props) => <AntDesign name="videocamera" {...props} />
 export const Close = (props) => <AntDesign name="closecircle" {...props} />
 export const More = (props) => <Entypo name="dots-three-horizontal" {...props} />
 export const Comment = (props) => <AntDesign name="message1" {...props} />
-export const Share = (props) => <AntDesign name="sharealt" {...props} />
+export const ShareIcon = (props) => <AntDesign name="sharealt" {...props} />
